@@ -1,0 +1,31 @@
+# 基础web框架
+Flask==2.3.3
+gunicorn==21.2.0
+
+# 文件处理
+PyPDF2==3.0.1
+python-docx==0.8.11
+docx2txt==0.8
+
+# API调用和网络请求
+requests==2.31.0
+openai==1.30.0
+google-generativeai==0.5.4
+anthropic==0.25.1
+dashscope==1.14.1
+
+# 数据处理
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+lxml==4.9.3
+
+# 环境变量和配置
+python-dotenv==1.0.0
+
+# 日志和调试工具
+tqdm==4.66.1
+
+# 可选的增强依赖（如果需要更多功能）
+# pdfplumber==0.10.0  # 更好的PDF解析
+# pymupdf==1.23.5     # 另一个PDF解析选项
+# openpyxl==3.1.2     # Excel文件支持
