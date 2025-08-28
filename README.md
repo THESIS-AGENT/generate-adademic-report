@@ -272,22 +272,21 @@ curl http://localhost:5000/health
 
 ## 📄 许可证
 
-本项目采用 [MIT License](LICENSE) 许可证。
+本项目采用 MIT License 许可证。
 
 ## 🆘 获取帮助
 
-- 📋 [提交Issue](https://github.com/yourusername/generate-academic-report/issues)
-- 📧 邮箱支持: your.email@example.com
-- 📖 [项目Wiki](https://github.com/yourusername/generate-academic-report/wiki)
+- 📋 [提交Issue](https://github.com/THESIS-AGENT/generate-adademic-report/issues)
+- 📧 邮箱支持: service@thesisagent.ai
 
 ## 🙏 致谢
 
 感谢以下开源项目和服务：
-- [OpenAI](https://openai.com/) - GPT模型支持
-- [Google](https://ai.google.dev/) - Gemini模型支持
-- [Anthropic](https://www.anthropic.com/) - Claude模型支持
-- [阿里云](https://dashscope.aliyun.com/) - 通义千问支持
-- [SiliconFlow](https://siliconflow.cn/) - 开源模型支持
+- [OpenAI](https://platform.openai.com/docs/models) - GPT模型支持
+- [Google](https://ai.google.dev/gemini-api/docs/models) - Gemini模型支持
+- [Anthropic](https://docs.anthropic.com/en/docs/about-claude/models/overview) - Claude模型支持
+- [阿里云](https://help.aliyun.com/zh/model-studio/models) - 通义千问支持
+- [SiliconFlow](https://www.siliconflow.com/models) - 开源模型支持
 
 ## ⭐ Star History
 
