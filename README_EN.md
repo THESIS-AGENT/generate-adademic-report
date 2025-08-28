@@ -274,25 +274,28 @@ We welcome contributions in various forms:
 
 This project is licensed under [MIT License](LICENSE).
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ## 🆘 Getting Help
 
-- 📋 [Submit Issue](https://github.com/yourusername/generate-academic-report/issues)
-- 📧 Email Support: your.email@example.com
-- 📖 [Project Wiki](https://github.com/yourusername/generate-academic-report/wiki)
+- 📋 [Submit Issue](https://github.com/THESIS-AGENT/generate-adademic-report/issues)
+- 📧 Email Support: service@thesisagent.ai
 
 ## 🙏 Acknowledgments
 
-Thanks to the following open-source projects and services:
-- [OpenAI](https://openai.com/) - GPT model support
-- [Google](https://ai.google.dev/) - Gemini model support
-- [Anthropic](https://www.anthropic.com/) - Claude model support
-- [Alibaba Cloud](https://dashscope.aliyun.com/) - Qwen support
-- [SiliconFlow](https://siliconflow.cn/) - Open-source model support
+Thanks to the following open source projects and services:
+- [OpenAI](https://platform.openai.com/docs/models) - GPT Model Support
+- [Google](https://ai.google.dev/gemini-api/docs/models) - Gemini Model Support
+- [Anthropic](https://docs.anthropic.com/en/docs/about-claude/models/overview) - Claude Model Support
+- [Alibaba Cloud](https://help.aliyun.com/zh/model-studio/models) - Tongyi Qianwen Support
+- [SiliconFlow](https://www.siliconflow.com/models) - Open Source Model Support
 
 ## ⭐ Star History
 
-If this project helps you, please give us a ⭐️!
+If this project has been helpful to you, please give us a ⭐️!
 
 ---
 
-**Disclaimer**: This tool is for academic research inspiration and reference only. Users must ensure compliance with academic integrity and relevant laws and regulations. 
+**Disclaimer**: This tool is only for academic research inspiration and reference. Users must ensure compliance with academic integrity and relevant laws and regulations.
